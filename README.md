@@ -126,3 +126,4 @@ The best way to verify the integrity hash of a `yarn.lock` is to compare the int
    ```
      $ diff -r node_modules/<depedency> tmp/<downloaded_dependency>
    ```
+®
